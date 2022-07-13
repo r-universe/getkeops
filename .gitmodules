@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rkeops"]
+	path = rkeops
+	url = https://github.com/getkeops/keops
+	shallow = true
+	subdir = rkeops
+	registered = true
